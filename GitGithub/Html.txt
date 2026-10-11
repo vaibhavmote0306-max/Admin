@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Defines the character encoding -->
+    <meta charset="UTF-8">
+
+    <!-- Makes the website responsive on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Website title shown in the browser tab -->
+    <title>My Git and GitHub Project</title>
+
+    <!-- Connects the external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main container for website content -->
+    <div class="container">
+
+        <!-- Main heading -->
+        <h1>Welcome to My Project</h1>
+
+        <!-- Project description -->
+        <p>This website was created using VS Code.</p>
+
+        <!-- Git and GitHub learning objective -->
+        <p>Learning Git, GitHub, SSH, and Version Control.</p>
+
+        <!-- Button to test JavaScript-free HTML/CSS interaction -->
+        <a class="button" href="https://github.com/">Visit GitHub</a>
+
+    </div>
+</body>
+</html>
